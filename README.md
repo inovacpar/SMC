@@ -1,6 +1,6 @@
 SMC — Sistema de Monitoramento Climático
 
-Sobre o projeto
+1. Sobre o projeto
 
 O SMC (Sistema de Monitoramento Climático) é um dispositivo eletrônico desenvolvido para monitorar variáveis ambientais, inicialmente focado na temperatura e na umidade relativa do ar.
 
